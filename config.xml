@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.FADP" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>AppAgendaBaccon</name>
+    <description>
+        Agenda APP para capturar los datos de las personas
+    </description>
+    <author email="angys0507@hotmail.com" href="http://camaleoncreativo.com">
+        Baccon
+    </author>
+    <content src="index.html" />
+    <access origin="http://especialistasenlaweb.com" />
+    <plugin name="cordova-plugin-whitelist" source="npm" />
+     <allow-navigation href="*" />
+     <alllow-intent href="*" />
+</widget>
